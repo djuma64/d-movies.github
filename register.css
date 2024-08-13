@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+   
+    min-height: 100vh;
+    background-image: url(b6.jpg);
+}
+.form{
+    margin-top: 25vh;
+    margin-left: 60vh;
+    background-image: url(b6.jpg);
+    height: 65vh;
+    width: 70vh;
+    border-radius: 2vh;
+}
+.h1{
+    font-size: 4vh;
+    color: rgb(255, 255, 255);
+    margin-left: 13vh;
+    margin-top: 3vh;
+}
+.big2{
+    display: flex;
+    margin-top: 3vh;
+}
+.two{
+    margin-left: 6vh;
+}
+.one{
+    margin-left: 4vh;
+}
+.email{
+    margin-left: 4vh;
+    margin-top: 3vh;
+}
+.tel{
+    display: flex;
+    margin-left: 4vh;
+    margin-top: 3vh;
+}
+.tel2{
+    margin-left: 6vh;
+}
+.birth{
+    margin-left: 4vh;
+    margin-top: 3vh;
+}
+.password{
+    margin-left: 4vh;
+    margin-top: 3vh;
+}
+.rem{
+    margin-left: 4vh;
+    margin-top: 2vh;
+}
+button{
+    margin-left: 15vh;
+    margin-top: 2vh;
+    width: 40vh;
+    height: 5vh;
+    border-radius: 2vh;
+}
+button:hover{
+    background-color: blue;
+}
+.sign{
+    margin-left: 4vh;
+    margin-top: 1vh;
+}
+input{
+    height: 4vh;
+    border-radius: 2vh;
+    width: 25vh;
+    color: black;
+}
+.sign{
+    display: flex;
+    margin-left: 15vh;
+}
+.sign p{
+   font-size: 2.5vh;
+}
+a{
+    font-size: 2.5vh;
+    text-decoration: none;
+}

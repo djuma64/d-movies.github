@@ -1,0 +1,43 @@
+
+td img{
+    width: 90vh;
+    height: 60vh;
+    margin-left: 10vh;
+    animation: infinite;
+    animation-name: img;
+    animation-duration: 3s;
+    border-radius: 2vh;
+}
+td{
+    color: rgb(243, 240, 44);
+    margin-left: 2vh;
+}
+td li{
+    list-style: none;
+    font-size: 3vh;
+    margin-top: 6vh;
+    margin-left: 8vh;
+    width: 21vh;
+    height: 4vh;
+    background-color: rgb(50, 133, 87);
+    border: 0.3vh solid black;
+    border-radius: 2vh; 
+}
+td li:hover{
+    background-color: blue;
+}
+td li a{
+    text-decoration: none;
+    margin-left: 3vh;
+}
+th{
+    font-size: 5vh;
+    color: white;
+}
+.body{
+    background-color: black;
+}
+table{
+    width: 100%;
+    background-image: url(b2.jpg);
+}
